@@ -1,4 +1,5 @@
-## 
+## Oi, eu sou a Aila! :)
+
  <div>
   <a href="https://github.com/ailacossovan">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ailacossovan&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
